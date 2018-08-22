@@ -1,0 +1,12 @@
+{
+  "name": "xz-promise-queue",
+  "version": "0.1.0",
+  "description": "基于Promise的队列，用于执行大量异步函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xinzai <1843605478@qq.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/neuqzxy/promise-queue.git"
+}
