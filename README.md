@@ -12,7 +12,7 @@ npm install --save xz-promise-queue
 
 首先创建一个`promiseQueue`实例
 ```
-const PromiseQueue = require('../index');
+const PromiseQueue = require('xz-promise-queue');
 
 let promiseQueue = new PromiseQueue(5 [,options]);
 ```
